@@ -1,0 +1,70 @@
+{
+"politician": [
+    {
+        "name": "Davey Gibbard",
+        "district":"first congressional district",
+        "party":"Libertarian",
+        "id":1
+    }
+],
+"vote":[
+    {
+        "bill": 1,
+        "voter": 1,
+        "id":1
+    }
+],
+"bills": [
+    {
+        "name": "everyone gets candy",
+        "id": 1
+    }
+],
+"billInterests": [
+    {
+        "bill": 1,
+        "interest": 1,
+        "id": 1
+    }
+],
+"sponsorship": [
+    {
+        "politician":1,
+        "pac": 1,
+        "id": 1
+    }
+],
+"interests": [
+    {
+        "interest": "happy people",
+        "id": 1
+    }
+],
+"pacInterests": [
+    {
+        "pac": 1,
+        "Interest":1,
+        "id": 1
+    }
+],
+"pac": [
+    {
+        "name": "peoples front for giving everone candy and other good stuff kinda things",
+        "id":1
+    }
+],
+"corpDonations": [
+    {
+        "pac": 1,
+        "corp": 1,
+        "amount": 42000000,
+        "id": 1
+    }
+],
+"corp": [
+    {
+        "name": "Willy Wonka's Chocolate Factory",
+        "id":1
+    }
+]
+}
